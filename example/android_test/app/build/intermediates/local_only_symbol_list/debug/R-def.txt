@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color black
+color log_background
+color log_border
+color log_text
+color primary
+color primary_dark
+color primary_light
+color secondary
+color secondary_dark
+color white
+drawable ic_launcher_foreground
+drawable log_background
+id btnClearLog
+id btnGetBackends
+id btnGetPlatformInfo
+id btnInitRuntime
+id btnTestLibrary
+id scrollView
+id tvOutput
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.RwkvMobileTest
+xml backup_rules
+xml data_extraction_rules
