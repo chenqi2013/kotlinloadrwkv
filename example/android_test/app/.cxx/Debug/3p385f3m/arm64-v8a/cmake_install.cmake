@@ -1,4 +1,4 @@
-# Install script for directory: /Users/chenqi/Desktop/example/android_test/app/src/main/cpp
+# Install script for directory: /Users/chenqi/kotlinloadrwkv/example/android_test/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/chenqi/Desktop/example/android_test/app/.cxx/Debug/3p385f3m/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/chenqi/kotlinloadrwkv/example/android_test/app/.cxx/Debug/3p385f3m/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

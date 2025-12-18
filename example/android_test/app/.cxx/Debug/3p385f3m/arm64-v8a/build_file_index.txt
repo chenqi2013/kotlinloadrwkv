@@ -1,1 +1,1 @@
-/Users/chenqi/Desktop/example/android_test/app/src/main/cpp/CMakeLists.txt
+/Users/chenqi/kotlinloadrwkv/example/android_test/app/src/main/cpp/CMakeLists.txt

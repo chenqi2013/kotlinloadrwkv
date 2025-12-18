@@ -1,3 +1,3 @@
 # ninja log v5
-0	318	1765964277574302079	CMakeFiles/rwkv_jni.dir/rwkv_jni.cpp.o	75b96263d342c6fe
-320	363	1765964277620840811	/Users/chenqi/Desktop/example/android_test/app/build/intermediates/cxx/Debug/3p385f3m/obj/arm64-v8a/librwkv_jni.so	341c625215f8ba8c
+0	355	1765965195269969740	CMakeFiles/rwkv_jni.dir/rwkv_jni.cpp.o	a8ccd5edb8a81fe5
+356	465	1765965195381312041	/Users/chenqi/kotlinloadrwkv/example/android_test/app/build/intermediates/cxx/Debug/3p385f3m/obj/arm64-v8a/librwkv_jni.so	d594ba424d141c03
